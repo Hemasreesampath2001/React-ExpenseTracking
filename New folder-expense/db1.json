@@ -1,0 +1,110 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "akash",
+      "email": "akash@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "KUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "KUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "mk",
+      "lastName": "KUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "firstName": "MUTHUKUMAR",
+      "lastName": "ddd",
+      "email": "muthukumar08011997@gmail.com",
+      "password": "11111",
+      "id": 5
+    },
+    {
+      "firstName": "MUTHUKUMAR",
+      "lastName": "B",
+      "email": "muthukumar08011997@gmail.com",
+      "password": "1234",
+      "id": 6
+    }
+  ],
+  "expense": [
+    {
+      "expenseTitle": "car rent",
+      "expenseNotes": "c to s",
+      "expenseCategory": "2",
+      "expenseAmount": "5000",
+      "paidBy": "2",
+      "expenseDate": "2023-04-13",
+      "id": 1
+    },
+    {
+      "expenseTitle": "dfdsf",
+      "expenseNotes": "sfddsf",
+      "expenseCategory": "1",
+      "expenseAmount": "sdfdsf",
+      "paidBy": "2",
+      "expenseDate": "2023-03-30",
+      "id": 2
+    },
+    {
+      "expenseTitle": "dfdsf",
+      "expenseNotes": "dfd",
+      "expenseCategory": "2",
+      "expenseAmount": "sdfdsf",
+      "paidBy": "1",
+      "expenseDate": "2023-03-30",
+      "id": 3
+    },
+    {
+      "expenseTitle": "office rent",
+      "expenseNotes": "new",
+      "expenseCategory": "1",
+      "expenseAmount": "20000",
+      "paidBy": "1",
+      "expenseDate": "2023-04-05",
+      "id": 4
+    },
+    {
+      "expenseTitle": "dfdsf",
+      "expenseNotes": "dfd",
+      "expenseCategory": "1",
+      "expenseAmount": "dfd",
+      "paidBy": "1",
+      "expenseDate": "2023-04-01",
+      "id": 5
+    },
+    {
+      "expenseTitle": "CAR",
+      "expenseNotes": "1000",
+      "expenseCategory": "2",
+      "expenseAmount": "GOPI",
+      "paidBy": "2",
+      "expenseDate": "2023-04-07",
+      "id": 6
+    },
+    {
+      "expenseTitle": "BUS",
+      "expenseNotes": "2000",
+      "expenseCategory": "Delhi",
+      "expenseAmount": "CHANDAR",
+      "paidBy": "Chairman",
+      "expenseDate": "2023-04-20",
+      "id": 7
+    }
+  ]
+}

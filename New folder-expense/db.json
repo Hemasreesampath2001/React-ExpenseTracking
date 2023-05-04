@@ -1,0 +1,31 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "akash",
+      "email": "akash@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "expense": [
+    {
+      "expenseTitle": "car rent",
+      "expenseNotes": "c to s",
+      "expenseCategory": "2",
+      "expenseAmount": "5000",
+      "paidBy": "2",
+      "expenseDate": "2023-04-13",
+      "id": 1
+    },
+    {
+      "expenseTitle": "dfdsf",
+      "expenseNotes": "sfddsf",
+      "expenseCategory": "1",
+      "expenseAmount": "sdfdsf",
+      "paidBy": "2",
+      "expenseDate": "2023-03-30",
+      "id": 2
+    }
+
+  ]
+}
